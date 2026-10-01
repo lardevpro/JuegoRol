@@ -1,0 +1,15 @@
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\bin\Debug\net10.0\JuegoRol.exe
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\bin\Debug\net10.0\JuegoRol.deps.json
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\bin\Debug\net10.0\JuegoRol.runtimeconfig.json
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\bin\Debug\net10.0\JuegoRol.dll
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\bin\Debug\net10.0\JuegoRol.pdb
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.dll
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\refint\JuegoRol.dll
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.pdb
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\ref\JuegoRol.dll
+C:\Users\Profesor\source\repos\JuegoRol\JuegoRol\obj\Debug\net10.0\JuegoRol.csproj.Up2Date
